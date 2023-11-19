@@ -5,6 +5,6 @@ int Policz(int a, int b){
 }
 
 int main() {
-    printf("Suma: %d", Policz(10, 4));
+    printf("Suma: %d", Policz(9, 4));
     return 0;
 }
